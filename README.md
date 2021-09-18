@@ -4,7 +4,7 @@ The application is clustering the cities based on pollution.
 The Dataset used here is Indias state wise air quality data tamil nadu
 You can find the data sets [here](https://www.kaggle.com/jamescalap/indias-state-wise-air-quality-data-tamil-nadu) (and also attached in Repository)
 
-## Let me give a brief overview of DBSCAN in Short:
+## Let us have a quick overview of DBSCAN in short:pinching_hand::
 
    - DBSCAN - Density-Based Spatial Clustering of Applications with Noise 
   
@@ -29,4 +29,4 @@ You can find the data sets [here](https://www.kaggle.com/jamescalap/indias-state
   
  ## Have a Nice Coding :+1:
   
- ## ThankQ :handshake:	
+ ## ThankQ :handshake:	  -_N_:writing_hand:	
