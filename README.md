@@ -27,6 +27,6 @@ You can find the data sets [here](https://www.kaggle.com/jamescalap/indias-state
   
    - Rest of code explain is done by commenting in code itself as and when needed.
   
- ## Have a Nice Coding :+1: :thumbsup:
+ ## Have a Nice Coding :+1:
   
  ## ThankQ :handshake:	
